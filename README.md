@@ -1,23 +1,35 @@
-<img src="undraw_programming_re_kg9v.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo yurihmf">
+# Bem vindo 👋, meu nome é **Yuri Ferreira**!
 
-### Bem vindo 👋
+<img src="assets/undraw_programming_re_kg9v.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="programming ilustration">
 
-<p align=left>
-  ✌ Tranquilo? Meu nome é <strong>Yuri Ferreira</strong>. E sou estudante de Ciências da Computação e atualmente faço estágio na área de desenvolvimento Web.
-</p>
+- 👨‍🎓 Estudante de Ciências da Computação
 
-<p align=left>
-  💻 No meu dia a dia eu utilizo HTML, CSS, JavaScript e também PHP para desenvolver o Front-End. E atualmente estou estudando ReactJS com NextJS. Eu pretendo me aprofundar no          JavaScript para abranger mais áreas em que eu possa atuar, já que estou disposto a entrar em uma empresa que possa me orientar na stack que irei utilizar. E também já fiz          alguns algorítmos em Java para a faculdade.
-</p>
+- 💻 Atuo na área como Desenvolvedor Front-End Jr.
 
-<br>
+- 🧗‍♂️ Adoro novos desafios e ter que me adpatar a eles.
 
-<p align="left">
-  <a href="https://www.instagram.com/yuri.hmello/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-fff95c?style=for-the-badge&logo=Instagram&logoColor=242424&link=https://www.instagram.com/yuri.hmello"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/yuri-homen-de-mello-ferreira-b04232191" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-fff95c?style=for-the-badge&logo=Linkedin&logoColor=242424&link=https://www.linkedin.com/in/yuri-homen-de-mello-ferreira-b04232191"/>
-  </a>
-</p>
+- 📘 Atualmente estudando ReactJS com seu framework NextJS e também iniciando no TypeScript.
+
+### 📞 Contato:
+
+[<img src="https://img.shields.io/badge/-Instagram-fff95c?style=for-the-badge&logo=Instagram&logoColor=242424&link=https://www.instagram.com/yuri.hmello"/>](https://www.instagram.com/yuri.hmello/)
+[ <img src="https://img.shields.io/badge/-Linkedin-fff95c?style=for-the-badge&logo=Linkedin&logoColor=242424&link=https://www.linkedin.com/in/yuri-homen-de-mello-ferreira-b04232191"/>](https://www.linkedin.com/in/yuri-homen-de-mello-ferreira-b04232191/)
+
+---
+
+<br/>
+
+## 🛠️ Stack e Estudos:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/>
