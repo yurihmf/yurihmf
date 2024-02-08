@@ -4,11 +4,11 @@
 
 - 👨‍🎓 Estudante de Ciências da Computação
 
-- 💻 Atuo na área como Desenvolvedor Front-End Jr.
+- 💻 Atuo há 2 anos na área como Desenvolvedor Front-End.
 
 - 🧗‍♂️ Adoro novos desafios e ter que me adpatar a eles.
 
-- 📘 Atualmente estudando ReactJS com seu framework NextJS e também iniciando no TypeScript.
+- 📘 Trabalho principalmente com o ecossistema JavaScript e seus frameworks e bibliotecas como ReactJS, TypeScript, NextJS e GraphQL.
 
 ### 📞 Contato:
 
