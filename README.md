@@ -8,7 +8,7 @@
 
 - 🧗‍♂️ Adoro novos desafios e ter que me adpatar a eles.
 
-- 📘 Trabalho principalmente com o ecossistema JavaScript e seus frameworks e bibliotecas como ReactJS, TypeScript, NextJS e GraphQL.
+- 📘 Trabalho principalmente com o ecossistema JavaScript e seus frameworks como ReactJS, TypeScript, NextJS e GraphQL.
 
 ### 📞 Contato:
 
